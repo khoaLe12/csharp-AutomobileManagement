@@ -7,3 +7,4 @@ This is a simple web used to perform some simple CRUD actions
 * Database: MS SQL Server
 * Query tech: LINQ
 
+![Picture](https://github.com/khoaLe12/csharp-AutomobileManagement/blob/main/Pictures/Screenshot%202023-04-17%20214338.png)
