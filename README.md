@@ -1,5 +1,5 @@
 # Automobile Management Web
-This is a simple web used to perform some simple CRUD actions
+This is a simple web used to perform some basic CRUD actions
 
 ## Tech Stack
 * IDE: Visual Studio
